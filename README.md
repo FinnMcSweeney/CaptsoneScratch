@@ -1,1 +1,1 @@
-# CaptsoneScratch
+<centered> # CaptsoneScratch </centered>
