@@ -1,3 +1,3 @@
-<h1 align = "center"> CaptsoneScratch </h1>
-<centered>blah blah blah blahfdjnb hdkwjlmshbvfduwijk;omlvlnnk dkm;lscdvkcfn vkndklm;slc</centered>
+<h1 align = "center"> Capstone Project: Team # </h1>
+</br>
 <p align="center"> centered text </p>
