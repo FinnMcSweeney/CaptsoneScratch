@@ -1,5 +1,9 @@
 <h1 align = "center"> Capstone Project: Team 3 </h1>
 </br>
+<h2> Project Overview </h2>
+
+<p>The main focus of this project is to use data from country emissions, air quality and population and find trends and correlations between these datasets.  In addition to looking at graphs to answer our initial questions, machine learning models will be used to look at future totals in emissions.  The data will be cleaned, analyzed and dashboards will be created to look at realtime data as it relates to our datasets and graphs. </p>
+
 <h2> Datasets </h2>
 <ul>
 <li><a href="https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022"> Emmisions by Country - 2002-2022 </a></li>
