@@ -1,4 +1,4 @@
-<h1 align = "center"> Capstone Project: Team 3 </h1>
+<h1 align = "center"> Capstone Project: Emissions Experts </h1>
 </br>
 <h2> Project Overview </h2>
 
